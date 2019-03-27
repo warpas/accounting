@@ -1,0 +1,4 @@
+# WarpasAccounting.Umbrella
+
+
+ADD FIRST MODULE FOR CONVERTING mBANK STATEMENTS TO CSV(?)
